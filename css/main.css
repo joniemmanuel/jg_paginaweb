@@ -1,0 +1,33 @@
+.header {
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 130px;
+  margin: 0 auto;
+}
+.header.logo {
+  width: 80px;
+  padding: 0%;
+  background-position: center;
+  background-size: cover;
+  cursor: pointer;
+}
+.header.logo > img {
+  height: 100%;
+  object-fit: cover;
+}
+
+
+.header .nav-link a{
+  font-size: 700;
+  color:black;
+
+ 
+ 
+
+  
+
+}
+
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,36 @@
+.section{
+margin: 0;
+padding: 0;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.slider{
+    width: 800px;
+    height: 500px;
+    border-radius: 10px;
+    overflow: hidden;
+
+}
+
+
+
+
+.st img{
+    width: 900px;
+    height: 600px;
+}
+
+
+.principal img{
+    width: 1342px;
+    height: 650px;
+    padding-top: 1%;
+    
+}
+
+
+
+
