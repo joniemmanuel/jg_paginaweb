@@ -15,7 +15,9 @@ align-items: center;
 
 }
 
-
+a{
+    color: white;
+}
 
 
 .st img{
@@ -24,12 +26,7 @@ align-items: center;
 }
 
 
-.principal img{
-    width: 1342px;
-    height: 650px;
-    padding-top: 1%;
-    
-}
+
 
 
 main#main-container{
@@ -38,9 +35,12 @@ main#main-container{
 }
  
 .carousel-item img{
-    height: 78vh;
-    aspect-ratio: 16/9;
-    
+    height: 65vh;
+    aspect-ratio: 17/9;
     
 
+}
+
+.carousel-inner{
+    padding-top: 1%;
 }
