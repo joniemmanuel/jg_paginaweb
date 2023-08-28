@@ -1,0 +1,22 @@
+span{
+display: flex;
+justify-content: center;
+padding-top: 10px;
+
+}
+
+
+
+.flecha{
+    padding-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+
+.container22{
+    background-color:ivory;
+}
+
+
